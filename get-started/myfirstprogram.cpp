@@ -4,7 +4,8 @@
 using namespace std;
 
 // Main function
-int main() {
+int main()
+{
   // cout displays output
   cout << "Hello World!";
   // Ends the main function
@@ -15,8 +16,10 @@ int main() {
 /*
 We can use:
 - cout << "Hello World!";
+
 Another method we can use is to remove:
 - using namespace std;
+
 and use:
 - std::cout << "Hello World!";
 */
