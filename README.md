@@ -1,1 +1,1 @@
-Repository made for learning C++ thorugh W3Schools tutorials.
+Repository made for learning C++ through W3Schools tutorials.
