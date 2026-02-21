@@ -8,6 +8,6 @@ int main()
     cout << min(5, 10) << endl; // Will output the lowest number
     cout << sqrt(9) << endl;    // Outputs square root of 9 (3)
     cout << round(2.6) << endl; // Will round the specified number (will show 3)
-    cout << log(2) << endl;
+    cout << log(2) << endl;     // Will show the logarithm of the number
     return 0;
 }
