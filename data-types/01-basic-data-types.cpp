@@ -10,6 +10,7 @@ int main()
     bool boolean = true;        // Boolean
     string text = "Hello";      // String
     auto x = 10;                // Determines the type through the assigned variable
+    return 0;
 }
 
 /*
